@@ -8,6 +8,7 @@
 * Ashley
 * Damaris
 * Laura
+* Alberto
 
 ```
 npm install bootstrap
